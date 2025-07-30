@@ -1,3 +1,3 @@
 # Basic-C-programs
-[Hello](hello.c)
-[some](some.c)
+[Hello](Hello.c)
+[some](Some.c)
